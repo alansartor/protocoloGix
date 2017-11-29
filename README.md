@@ -44,3 +44,5 @@ Dentro de la vista Servers hacemos sobre el server que acabamos de crear, y en l
 Finalmente debemos arrancar el Server, para ello vamos a Run -> tomcatLocal (si no aparece, ir a Run Configuration y buscar dentro de las opciones de Apache Tomcat)
 
 ![Alt text](/WebContent/static/logo.png?raw=true "Optional Title")
+
+Para mas informacion del Protocolo Gix ir a [Bolsa Comercio de Rosario](https://www.bcr.com.ar/Pages/Institucional/Sistemas/default.aspx)
